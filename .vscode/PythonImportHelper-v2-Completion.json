@@ -1,0 +1,450 @@
+[
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "dotenv",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "getenv",
+        "importPath": "os",
+        "description": "os",
+        "isExtraImport": true,
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Annotated",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "CreateTaskRequestModel",
+        "importPath": "src.task.task_model",
+        "description": "src.task.task_model",
+        "isExtraImport": true,
+        "detail": "src.task.task_model",
+        "documentation": {}
+    },
+    {
+        "label": "TaskResponseModel",
+        "importPath": "src.task.task_model",
+        "description": "src.task.task_model",
+        "isExtraImport": true,
+        "detail": "src.task.task_model",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateTaskRequestModel",
+        "importPath": "src.task.task_model",
+        "description": "src.task.task_model",
+        "isExtraImport": true,
+        "detail": "src.task.task_model",
+        "documentation": {}
+    },
+    {
+        "label": "CreateTaskRequestModel",
+        "importPath": "src.task.task_model",
+        "description": "src.task.task_model",
+        "isExtraImport": true,
+        "detail": "src.task.task_model",
+        "documentation": {}
+    },
+    {
+        "label": "TaskResponseModel",
+        "importPath": "src.task.task_model",
+        "description": "src.task.task_model",
+        "isExtraImport": true,
+        "detail": "src.task.task_model",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateTaskRequestModel",
+        "importPath": "src.task.task_model",
+        "description": "src.task.task_model",
+        "isExtraImport": true,
+        "detail": "src.task.task_model",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "src.config.database",
+        "description": "src.config.database",
+        "isExtraImport": true,
+        "detail": "src.config.database",
+        "documentation": {}
+    },
+    {
+        "label": "TableBase",
+        "importPath": "src.config.database",
+        "description": "src.config.database",
+        "isExtraImport": true,
+        "detail": "src.config.database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "importPath": "src.config.database",
+        "description": "src.config.database",
+        "isExtraImport": true,
+        "detail": "src.config.database",
+        "documentation": {}
+    },
+    {
+        "label": "TableBase",
+        "importPath": "src.config.database",
+        "description": "src.config.database",
+        "isExtraImport": true,
+        "detail": "src.config.database",
+        "documentation": {}
+    },
+    {
+        "label": "task_router",
+        "importPath": "src.task.task_router",
+        "description": "src.task.task_router",
+        "isExtraImport": true,
+        "detail": "src.task.task_router",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "src.config.database",
+        "description": "src.config.database",
+        "peekOfCode": "def get_db():\n    db = session_local()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "src.config.database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "src.config.database",
+        "description": "src.config.database",
+        "peekOfCode": "engine = create_engine(getenv(\"DATABASE_URI\"))\nsession_local = sessionmaker(autocommit=False,autoflush=False,bind=engine)\nTableBase = declarative_base()\ndef get_db():\n    db = session_local()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "src.config.database",
+        "documentation": {}
+    },
+    {
+        "label": "session_local",
+        "kind": 5,
+        "importPath": "src.config.database",
+        "description": "src.config.database",
+        "peekOfCode": "session_local = sessionmaker(autocommit=False,autoflush=False,bind=engine)\nTableBase = declarative_base()\ndef get_db():\n    db = session_local()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "src.config.database",
+        "documentation": {}
+    },
+    {
+        "label": "TableBase",
+        "kind": 5,
+        "importPath": "src.config.database",
+        "description": "src.config.database",
+        "peekOfCode": "TableBase = declarative_base()\ndef get_db():\n    db = session_local()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "src.config.database",
+        "documentation": {}
+    },
+    {
+        "label": "TaskModel",
+        "kind": 6,
+        "importPath": "src.task.task_model",
+        "description": "src.task.task_model",
+        "peekOfCode": "class TaskModel(BaseModel):\n    id:int\n    name:str\n    description:Union[str,None]\n    class Config:\n        orm_mode = True\nclass CreateTaskRequestModel(BaseModel):\n    name:str\n    description:Optional[str] = None\nclass UpdateTaskRequestModel(BaseModel):",
+        "detail": "src.task.task_model",
+        "documentation": {}
+    },
+    {
+        "label": "CreateTaskRequestModel",
+        "kind": 6,
+        "importPath": "src.task.task_model",
+        "description": "src.task.task_model",
+        "peekOfCode": "class CreateTaskRequestModel(BaseModel):\n    name:str\n    description:Optional[str] = None\nclass UpdateTaskRequestModel(BaseModel):\n    name:Optional[str] = None\n    description:Optional[str] = None\nclass TaskResponseModel(BaseModel):\n    data:TaskModel | list[TaskModel]",
+        "detail": "src.task.task_model",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateTaskRequestModel",
+        "kind": 6,
+        "importPath": "src.task.task_model",
+        "description": "src.task.task_model",
+        "peekOfCode": "class UpdateTaskRequestModel(BaseModel):\n    name:Optional[str] = None\n    description:Optional[str] = None\nclass TaskResponseModel(BaseModel):\n    data:TaskModel | list[TaskModel]",
+        "detail": "src.task.task_model",
+        "documentation": {}
+    },
+    {
+        "label": "TaskResponseModel",
+        "kind": 6,
+        "importPath": "src.task.task_model",
+        "description": "src.task.task_model",
+        "peekOfCode": "class TaskResponseModel(BaseModel):\n    data:TaskModel | list[TaskModel]",
+        "detail": "src.task.task_model",
+        "documentation": {}
+    },
+    {
+        "label": "get_tasks",
+        "kind": 2,
+        "importPath": "src.task.task_router",
+        "description": "src.task.task_router",
+        "peekOfCode": "def get_tasks(db:database):\n    return task_service.get_tasks(db)\n@task_router.get(\"/{id}\",response_model=TaskResponseModel)\ndef get_task(id: int, db: database):\n    return task_service.get_task(db,id)\n@task_router.post(\"\",response_model=TaskResponseModel)\ndef create_task(db:database,task_data:CreateTaskRequestModel):\n    return task_service.create_task(db,task_data)\n@task_router.patch(\"/{id}\",response_model=TaskResponseModel)\ndef update_task(id: int, db: database, task_data: UpdateTaskRequestModel):",
+        "detail": "src.task.task_router",
+        "documentation": {}
+    },
+    {
+        "label": "get_task",
+        "kind": 2,
+        "importPath": "src.task.task_router",
+        "description": "src.task.task_router",
+        "peekOfCode": "def get_task(id: int, db: database):\n    return task_service.get_task(db,id)\n@task_router.post(\"\",response_model=TaskResponseModel)\ndef create_task(db:database,task_data:CreateTaskRequestModel):\n    return task_service.create_task(db,task_data)\n@task_router.patch(\"/{id}\",response_model=TaskResponseModel)\ndef update_task(id: int, db: database, task_data: UpdateTaskRequestModel):\n    return task_service.update_task(db,id, task_data)\n@task_router.delete(\"/{id}\",response_model=TaskResponseModel)\ndef delete_task(id: int, db: database):",
+        "detail": "src.task.task_router",
+        "documentation": {}
+    },
+    {
+        "label": "create_task",
+        "kind": 2,
+        "importPath": "src.task.task_router",
+        "description": "src.task.task_router",
+        "peekOfCode": "def create_task(db:database,task_data:CreateTaskRequestModel):\n    return task_service.create_task(db,task_data)\n@task_router.patch(\"/{id}\",response_model=TaskResponseModel)\ndef update_task(id: int, db: database, task_data: UpdateTaskRequestModel):\n    return task_service.update_task(db,id, task_data)\n@task_router.delete(\"/{id}\",response_model=TaskResponseModel)\ndef delete_task(id: int, db: database):\n    return task_service.delete_task(db,id)",
+        "detail": "src.task.task_router",
+        "documentation": {}
+    },
+    {
+        "label": "update_task",
+        "kind": 2,
+        "importPath": "src.task.task_router",
+        "description": "src.task.task_router",
+        "peekOfCode": "def update_task(id: int, db: database, task_data: UpdateTaskRequestModel):\n    return task_service.update_task(db,id, task_data)\n@task_router.delete(\"/{id}\",response_model=TaskResponseModel)\ndef delete_task(id: int, db: database):\n    return task_service.delete_task(db,id)",
+        "detail": "src.task.task_router",
+        "documentation": {}
+    },
+    {
+        "label": "delete_task",
+        "kind": 2,
+        "importPath": "src.task.task_router",
+        "description": "src.task.task_router",
+        "peekOfCode": "def delete_task(id: int, db: database):\n    return task_service.delete_task(db,id)",
+        "detail": "src.task.task_router",
+        "documentation": {}
+    },
+    {
+        "label": "task_router",
+        "kind": 5,
+        "importPath": "src.task.task_router",
+        "description": "src.task.task_router",
+        "peekOfCode": "task_router = APIRouter(prefix=\"/tasks\",tags=[\"Task\"])\ndatabase = Annotated[Session,Depends(get_db)]\n@task_router.get(\"\",response_model=TaskResponseModel)\ndef get_tasks(db:database):\n    return task_service.get_tasks(db)\n@task_router.get(\"/{id}\",response_model=TaskResponseModel)\ndef get_task(id: int, db: database):\n    return task_service.get_task(db,id)\n@task_router.post(\"\",response_model=TaskResponseModel)\ndef create_task(db:database,task_data:CreateTaskRequestModel):",
+        "detail": "src.task.task_router",
+        "documentation": {}
+    },
+    {
+        "label": "database",
+        "kind": 5,
+        "importPath": "src.task.task_router",
+        "description": "src.task.task_router",
+        "peekOfCode": "database = Annotated[Session,Depends(get_db)]\n@task_router.get(\"\",response_model=TaskResponseModel)\ndef get_tasks(db:database):\n    return task_service.get_tasks(db)\n@task_router.get(\"/{id}\",response_model=TaskResponseModel)\ndef get_task(id: int, db: database):\n    return task_service.get_task(db,id)\n@task_router.post(\"\",response_model=TaskResponseModel)\ndef create_task(db:database,task_data:CreateTaskRequestModel):\n    return task_service.create_task(db,task_data)",
+        "detail": "src.task.task_router",
+        "documentation": {}
+    },
+    {
+        "label": "TaskSchema",
+        "kind": 6,
+        "importPath": "src.task.task_schema",
+        "description": "src.task.task_schema",
+        "peekOfCode": "class TaskSchema(TableBase):\n    __tablename__ = 'tasks'\n    id = Column(Integer, primary_key=True,autoincrement=True,index=True)\n    name = Column(String(255),nullable=False,index=True)\n    description = Column(String(255),nullable=True,index=True)",
+        "detail": "src.task.task_schema",
+        "documentation": {}
+    },
+    {
+        "label": "get_tasks",
+        "kind": 2,
+        "importPath": "src.task.task_service",
+        "description": "src.task.task_service",
+        "peekOfCode": "def get_tasks(db:Session):\n    tasks = db.query(TaskSchema).all()\n    print(f'-- ALL Tasks : {tasks}')\n    return {\"data\":tasks}\ndef get_task(db:Session,id:int):\n    task = db.query(TaskSchema).filter(TaskSchema.id == id).first()\n    if not task:\n        raise HTTPException(status_code=404, detail=\"Task not found\")\n    return {\"data\":task}\ndef create_task(db:Session,task_data:CreateTaskRequestModel):",
+        "detail": "src.task.task_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_task",
+        "kind": 2,
+        "importPath": "src.task.task_service",
+        "description": "src.task.task_service",
+        "peekOfCode": "def get_task(db:Session,id:int):\n    task = db.query(TaskSchema).filter(TaskSchema.id == id).first()\n    if not task:\n        raise HTTPException(status_code=404, detail=\"Task not found\")\n    return {\"data\":task}\ndef create_task(db:Session,task_data:CreateTaskRequestModel):\n    new_task = TaskSchema(**task_data.model_dump())\n    db.add(new_task)\n    db.commit()\n    db.refresh(new_task)",
+        "detail": "src.task.task_service",
+        "documentation": {}
+    },
+    {
+        "label": "create_task",
+        "kind": 2,
+        "importPath": "src.task.task_service",
+        "description": "src.task.task_service",
+        "peekOfCode": "def create_task(db:Session,task_data:CreateTaskRequestModel):\n    new_task = TaskSchema(**task_data.model_dump())\n    db.add(new_task)\n    db.commit()\n    db.refresh(new_task)\n    return {\"data\":new_task}\ndef update_task(db:Session,id:int,task_data:UpdateTaskRequestModel):\n    update_task_data = task_data.model_dump(exclude_unset=True)\n    if len(update_task_data.keys()) == 0:\n        raise HTTPException(status_code=400, detail=\"No data to update\")",
+        "detail": "src.task.task_service",
+        "documentation": {}
+    },
+    {
+        "label": "update_task",
+        "kind": 2,
+        "importPath": "src.task.task_service",
+        "description": "src.task.task_service",
+        "peekOfCode": "def update_task(db:Session,id:int,task_data:UpdateTaskRequestModel):\n    update_task_data = task_data.model_dump(exclude_unset=True)\n    if len(update_task_data.keys()) == 0:\n        raise HTTPException(status_code=400, detail=\"No data to update\")\n    task = db.query(TaskSchema).filter(TaskSchema.id == id).first()\n    if not task:\n        raise HTTPException(status_code=404, detail=\"Task not found\")\n    for key,value in update_task_data.items():\n        setattr(task,key,value)\n    db.commit()",
+        "detail": "src.task.task_service",
+        "documentation": {}
+    },
+    {
+        "label": "delete_task",
+        "kind": 2,
+        "importPath": "src.task.task_service",
+        "description": "src.task.task_service",
+        "peekOfCode": "def delete_task(db:Session,id:int):\n    task = db.query(TaskSchema).filter(TaskSchema.id == id).first()\n    if not task:\n        raise HTTPException(status_code=404, detail=\"Task not found\")\n    db.delete(task)\n    db.commit()\n    return {\"data\":task}",
+        "detail": "src.task.task_service",
+        "documentation": {}
+    },
+    {
+        "label": "root",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def root():\n    return {\"data\":\"Welcome to FastAPI + MySQL API\"}\napp.include_router(task_router)\nTableBase.metadata.create_all(bind=engine)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "app = FastAPI(title=\"FastAPI + MySQL\",version=\"0.0.1\")\n@app.get(\"/\",tags=[\"Default\"])\ndef root():\n    return {\"data\":\"Welcome to FastAPI + MySQL API\"}\napp.include_router(task_router)\nTableBase.metadata.create_all(bind=engine)",
+        "detail": "main",
+        "documentation": {}
+    }
+]
